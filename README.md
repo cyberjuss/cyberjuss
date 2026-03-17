@@ -21,6 +21,5 @@ Splunk · AWS · Terraform · PowerShell · Python · Docker
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter/X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/yourhandle)
 
 
