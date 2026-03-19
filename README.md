@@ -1,4 +1,4 @@
-# Hi 👋 I'm CyberJuss
+# Hi 👋 I'm Justin Duru
 
 ## Security & Threat Detection
 
