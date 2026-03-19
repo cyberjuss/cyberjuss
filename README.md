@@ -1,4 +1,4 @@
-# Hi 👋 I'm Justin Duru
+# Hi 👋 My anme Justin Duru
 
 ## Security & Threat Detection
 
