@@ -1,7 +1,5 @@
 # Hi 👋 I'm Justin Duru
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Detection+Engineer;Cloud+Security+Builder;SOC+Automation+Enthusiast)](https://git.io/typing-svg)
-
 ### 🛡️ Cybersecurity Engineer  ☁️
 
 I bring **3+ years of hands-on experience in cybersecurity**, specializing in **threat detection, SOC operations, and security automation**.  
@@ -17,6 +15,14 @@ Currently expanding my expertise in **cloud threat detection, infrastructure, an
 - 🧠 Currently learning: **Advanced Cloud Security, Detection Engineering, AI SOC Automation**
 - 🏗️ Building: **AWS Threat Detection Lab + PurveX (Detection Validation Platform)**
 - 🤝 Open to: **Cloud Security Projects, Detection Engineering, Threat Hunting, SOC Automation**
+
+---
+
+## 📊 GitHub Stats
+
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberjuss&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=cyberjuss&theme=tokyonight)
 
 ---
 
