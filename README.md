@@ -1,5 +1,7 @@
 # Hi 👋 I'm Justin Duru
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Detection+Engineer;Cloud+Security+Builder;SOC+Automation+Enthusiast)](https://git.io/typing-svg)
+
 ### 🛡️ Cybersecurity Engineer  ☁️
 
 I bring **3+ years of hands-on experience in cybersecurity**, specializing in **threat detection, SOC operations, and security automation**.  
