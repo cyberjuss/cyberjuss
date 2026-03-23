@@ -1,25 +1,80 @@
-# Hi 👋 My anme Justin Duru
+# 👋 Hey, I'm Justin (CyberJuss)
 
-## Security & Threat Detection
+🚀 Cybersecurity Engineer | Detection Engineering | Cloud Security  
+🧠 Building real-world SOC labs, detection pipelines, and adversary simulations  
+📍 Frostburg State University | Cybersecurity & IA (May 2026)
 
-I work on threat detection, security monitoring, and cloud security. I built the [AWS Threat Detection SOC Lab](https://github.com/cyberjuss/AWS-Threat-Detection-SOC-LAB) to combine Splunk, AWS (CloudTrail, Config, VPC Flow Logs), and detection practice in one place.
+---
 
-- 🌍 Add your location
-- ✉️ Contact: jduru213@gmail.com
-- 📄 [**Resume**](Duru_Justin_Resume.pdf)
-- 🧠 Learning: Cloud security, detection engineering, Splunk
-- 🤝 Open to collaborating on: Threat detection, SOC labs, cloud security projects
+## 🔥 What I’m Focused On
 
-### Tech & tools
+- Building **cloud threat detection labs (AWS + Splunk)**
+- Developing **detection engineering pipelines**
+- Mapping detections to **MITRE ATT&CK**
+- Creating **automation + AI-driven SOC workflows**
+- Founder of **PurveX (Detection Validation Platform)**
 
-Splunk · AWS · Terraform · PowerShell · Python · Docker
+---
 
-### Featured repo
+## ⚙️ Tech Stack
 
-[**AWS Threat Detection SOC Lab**](https://github.com/cyberjuss/AWS-Threat-Detection-SOC-LAB) — Hands-on lab for AWS threat detection with Splunk. Build/destroy scripts, CloudTrail, Config, VPC Flow Logs.
+**Cloud & Infra**
+- AWS (CloudTrail, Config, VPC Flow Logs)
+- Terraform
+- Azure (Sentinel, Defender)
 
-### Connect
+**Security & Detection**
+- Splunk (SIEM + SOAR)
+- Elastic Security
+- MITRE ATT&CK
+- Atomic Red Team
+- Caldera
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+**Automation**
+- Python
+- PowerShell
+- Bash
+- AI SOC Agents
 
+---
 
+## 🚧 Featured Projects
+
+### 🔍 AWS Threat Detection SOC Lab
+👉 https://github.com/cyberjuss/aws-threat-detection-soc-lab
+
+- Full cloud environment with logging + detection
+- MITRE ATT&CK-aligned attack simulations
+- Splunk-based monitoring + correlation
+- Designed for **repeatable detection engineering**
+
+---
+
+### 🧠 PurveX (In Progress)
+- Detection validation platform
+- Continuous adversary simulation
+- AI-powered detection gap analysis
+- MITRE coverage scoring
+
+---
+
+## 📊 GitHub Stats
+
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberjuss&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=cyberjuss&theme=tokyonight)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📧 Email: your@email.com
+- 🌐 Portfolio (coming soon)
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just study cybersecurity —  
+I **build environments, break them, detect it, and automate the whole loop.**
