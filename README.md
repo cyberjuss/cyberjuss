@@ -18,16 +18,6 @@ Currently expanding my expertise in **cloud threat detection, infrastructure, an
 
 ---
 
-### ⚡ What I Do
-
-- 🔍 Build **cloud-native detection labs (AWS + Splunk)**
-- 🧪 Simulate attacks using **MITRE ATT&CK, Atomic Red Team, Caldera**
-- 📊 Engineer detections + dashboards in **Splunk & SIEM tools**
-- 🤖 Automate workflows using **Python, SOAR, and AI agents**
-- 🧠 Continuously validate detection coverage
-
----
-
 - 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/justin-duru-97159a250/)
 - 📧 Email: jduru213@gmail.com
 - 🌐 Portfolio: [edium.com/@jduru213](https://medium.com/@jduru213)
