@@ -23,4 +23,4 @@ My focus is on building **real-world detection environments**, simulating advers
 
 - 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/justin-duru-97159a250/)
 - 📧 Email: jduru213@gmail.com
-- 🌐 Portfolio: [edium.com/@jduru213](https://medium.com/@jduru213)
+- 🌐 Portfolio: [medium.com/@jduru213](https://medium.com/@jduru213)
