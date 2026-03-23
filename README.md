@@ -1,30 +1,32 @@
-# 👋 Hey, I'm Justin (CyberJuss)
+# Hi 👋 I'm Justin Duru
 
-🚀 Cybersecurity Engineer | Detection Engineering | Cloud Security  
-🧠 Building real-world SOC labs, detection pipelines, and adversary simulations  
-📍 Frostburg State University | Cybersecurity & IA (May 2026)
+### 🛡️ Cybersecurity Engineer | Detection Engineering | Cloud Security ☁️
 
----
+I bring **3+ years of hands-on experience in cybersecurity**, specializing in **threat detection, SOC operations, and security automation**.  
+My focus is on building **real-world detection environments**, simulating adversaries, and turning insights into high-impact detections.
 
-## 🔥 What I’m Focused On
-
-- Building **cloud threat detection labs (AWS + Splunk)**
-- Developing **detection engineering pipelines**
-- Mapping detections to **MITRE ATT&CK**
-- Creating **automation + AI-driven SOC workflows**
-- Founder of **PurveX (Detection Validation Platform)**
+Currently expanding my expertise in **cloud threat detection, infrastructure, and AI-driven security workflows** 🚀
 
 ---
 
-## 📊 GitHub Stats
+### 🌍 About Me
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyberjuss&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=cyberjuss&theme=tokyonight)
+- 🎓 Cybersecurity & IA @ Frostburg State University (May 2026)
+- 🧠 Currently learning: **Advanced Cloud Security, Detection Engineering, AI SOC Automation**
+- 🏗️ Building: **AWS Threat Detection Lab + PurveX (Detection Validation Platform)**
+- 🤝 Open to: **Cloud Security Projects, Detection Engineering, Threat Hunting, SOC Automation**
 
 ---
 
-## 📫 Let’s Connect
+### ⚡ What I Do
+
+- 🔍 Build **cloud-native detection labs (AWS + Splunk)**
+- 🧪 Simulate attacks using **MITRE ATT&CK, Atomic Red Team, Caldera**
+- 📊 Engineer detections + dashboards in **Splunk & SIEM tools**
+- 🤖 Automate workflows using **Python, SOAR, and AI agents**
+- 🧠 Continuously validate detection coverage
+
+---
 
 - 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/justin-duru-97159a250/)
 - 📧 Email: jduru213@gmail.com
