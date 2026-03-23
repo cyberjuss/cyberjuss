@@ -26,9 +26,9 @@
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: your@email.com
-- 🌐 Portfolio (coming soon)
+- 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/justin-duru-97159a250/)
+- 📧 Email: jduru213@gmail.com
+- 🌐 Portfolio: [edium.com/@jduru213](https://medium.com/@jduru213)
 
 ---
 
