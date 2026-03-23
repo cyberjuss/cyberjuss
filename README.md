@@ -12,8 +12,7 @@ Currently expanding my expertise in **cloud threat detection, infrastructure, an
 ### 🌍 About Me
 
 - 🎓 Cybersecurity & IA @ Frostburg State University (May 2026)
-- 🧠 Currently learning: **Advanced Cloud Security, Detection Engineering, AI SOC Automation**
-- 🏗️ Building: **AWS Threat Detection Lab + PurveX (Detection Validation Platform)**
+- 🧠 Currently learning: **Cloud Security, Detection Engineering, AI SOC Automation**
 - 🤝 Open to: **Cloud Security Projects, Detection Engineering, Threat Hunting, SOC Automation**
 
 ---
