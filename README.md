@@ -5,7 +5,7 @@
 I work on threat detection, security monitoring, and cloud security. I built the [AWS Threat Detection SOC Lab](https://github.com/cyberjuss/AWS-Threat-Detection-SOC-LAB) to combine Splunk, AWS (CloudTrail, Config, VPC Flow Logs), and detection practice in one place.
 
 - 🌍 Add your location
-- ✉️ Contact: add your email
+- ✉️ Contact: jduru213@gmail.com
 - 📄 [**Resume**](Duru_Justin_Resume.pdf)
 - 🧠 Learning: Cloud security, detection engineering, Splunk
 - 🤝 Open to collaborating on: Threat detection, SOC labs, cloud security projects
