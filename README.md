@@ -5,7 +5,7 @@
 I bring **3+ years of experience in cybersecurity**, specializing in **threat detection, SOC operations, and security automation**.  
 My focus is on building **real-world detection environments**, simulating adversaries, and turning insights into high-impact detections.
 
-## 🌍 About Me
+## About Me
 
 - 🎓 Cybersecurity & IA @ Frostburg State University (May 2026)
 - 🧠 Currently learning: **Cloud Security, Detection Engineering, AI SOC Automation**
