@@ -2,13 +2,13 @@
 
 ### Cybersecurity Engineer  
 
-I bring 3+ years of experience in cybersecurity, specializing in threat detection, SOC operations, and security automation.  
+I bring 2+ years of experience in cybersecurity, specializing in threat detection, SOC operations, and security automation.  
 My focus is on building real-world detection environments, simulating adversaries, and turning noise into high-impact detections.
 
 ## About Me
 
-- 🎓 Cybersecurity & IA @ Frostburg State University (May 2026)
-- 🧠 Currently learning: **Cloud Security, Detection Engineering, AI SOC Automation**
+- 🎓 Cybersecurity & Information Assurance @ Frostburg State University (May 2026)
+- 🧠 Currently learning: **Cloud Security, Detection Engineering, Threat Detection**
 - 🤝 Open to: **Cloud Security Projects, Detection Engineering, Threat Hunting, SOC Automation**
 
 ---
