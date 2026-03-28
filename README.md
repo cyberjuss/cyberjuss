@@ -21,6 +21,6 @@ My focus is on building real-world detection environments, simulating adversarie
 
 🔗 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/justin-duru-97159a250/
-📧 Email: jduru213@gmail.com
-✍🏾 Technical Writing: https://medium.com/@jduru213
+💼 - LinkedIn: https://www.linkedin.com/in/justin-duru-97159a250/
+📧 - Email: jduru213@gmail.com
+✍🏾 - Technical Writing: https://medium.com/@jduru213
