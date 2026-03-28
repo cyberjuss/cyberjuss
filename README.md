@@ -3,7 +3,7 @@
 ### Cybersecurity Engineer  
 
 I bring 3+ years of experience in cybersecurity, specializing in threat detection, SOC operations, and security automation.  
-My focus is on building real-world detection environments, simulating adversaries, and turning insights into high-impact detections.
+My focus is on building real-world detection environments, simulating adversaries, and turning noise into high-impact detections.
 
 ## About Me
 
@@ -15,10 +15,8 @@ My focus is on building real-world detection environments, simulating adversarie
 
 ## 📊 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cyberjuss&show_icons=true&theme=tokyonight" height="165">
   <img src="https://streak-stats.demolab.com/?user=cyberjuss&theme=tokyonight" height="165">
-</p>
 
 ---
 
