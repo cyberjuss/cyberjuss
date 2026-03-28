@@ -15,7 +15,6 @@ My focus is on building real-world detection environments, simulating adversarie
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cyberjuss&show_icons=true&theme=tokyonight" height="165">
   <img src="https://streak-stats.demolab.com/?user=cyberjuss&theme=tokyonight" height="165">
 
 ---
